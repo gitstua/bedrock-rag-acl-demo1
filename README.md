@@ -29,3 +29,7 @@ To setup using this data:
 ## Limitations
 1. The `userAccess` is combined based on to/from/cc meaning those people have ACL access to the record. 
 1. The demo is not intended to return all results that match a query - it gets the most relevant chunks and summarises these
+
+## License
+This repository is proprietary and all rights are reserved.
+See `LICENSE` for terms.
