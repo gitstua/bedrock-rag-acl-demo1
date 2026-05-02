@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com",
+      "nora@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "planning"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1760913766
+  }
+}

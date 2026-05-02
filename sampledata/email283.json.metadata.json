@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com",
+      "zara@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "coordination"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1748530202
+  }
+}

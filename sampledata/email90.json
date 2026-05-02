@@ -1,0 +1,17 @@
+{
+  "id": "msg-090",
+  "from": "tara@corp.com",
+  "to": [
+    "umar@corp.com"
+  ],
+  "subject": "Escalation: apollo blockers for Canberra | Albert Einstein | Q3 review | INIT-1489",
+  "body": "Please note the apollo stream in Canberra has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Validate staffing, budget assumptions, and handoff checkpoints. Review dependencies across operations and flag unresolved risks. The retrospective section links this stream to lessons from Albert Einstein and Amelia Earhart. Reference initiative INIT-1489. Please add your comments before tomorrow morning. Tracking tags: readiness, delivery.",
+  "topics": [
+    "apollo",
+    "apollo",
+    "readiness"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

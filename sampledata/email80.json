@@ -1,0 +1,17 @@
+{
+  "id": "msg-080",
+  "from": "tara@corp.com",
+  "to": [
+    "umar@corp.com"
+  ],
+  "subject": "Project pulse: mainecoon execution in Canberra | Frida Kahlo | Q1 review | INIT-0209",
+  "body": "Following yesterday's call, the mainecoon effort in Canberra needs prompt confirmation. Current status is review with monthly updates owned by delivery. Validate staffing, budget assumptions, and handoff checkpoints. Review dependencies across operations and flag unresolved risks. The retrospective section links this stream to lessons from Frida Kahlo and Alan Turing. Reference initiative INIT-0209. Please add your comments before tomorrow morning. Tracking tags: readiness, delivery.",
+  "topics": [
+    "cats",
+    "mainecoon",
+    "readiness"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

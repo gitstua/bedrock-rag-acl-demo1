@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "risk"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1771207515
+  }
+}

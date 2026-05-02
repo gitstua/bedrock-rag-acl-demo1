@@ -1,0 +1,18 @@
+{
+  "id": "msg-235",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com",
+    "bianca@corp.com"
+  ],
+  "subject": "Status review: labrador milestone in Canberra | Nikola Tesla | Q4 review | INIT-0049",
+  "body": "Team, we are aligning the next phase of labrador work in Canberra. Current status is review with weekly updates owned by delivery. Validate staffing, budget assumptions, and handoff checkpoints. Review dependencies across operations and flag unresolved risks. Comparative note includes Nikola Tesla and Frida Kahlo as historical analogs. Reference initiative INIT-0049. Please add your comments before tomorrow morning. Tracking tags: readiness, handoff.",
+  "topics": [
+    "dogs",
+    "labrador",
+    "readiness"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

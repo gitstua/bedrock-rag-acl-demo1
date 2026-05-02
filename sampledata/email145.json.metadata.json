@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com",
+      "bianca@corp.com",
+      "caleb@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Mahatma Gandhi"
+    ],
+    "topics": [
+      "dogs",
+      "beagle",
+      "readiness"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1762230648
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com",
+      "zara@corp.com",
+      "noah@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alexander Fleming"
+    ],
+    "topics": [
+      "conference",
+      "round table",
+      "coordination"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1749661941
+  }
+}

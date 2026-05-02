@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "readiness"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1776230382
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "msg-209",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com",
+    "rina@corp.com",
+    "soren@corp.com"
+  ],
+  "subject": "Action needed: round table planning in Canberra | Frida Kahlo | Q2 review | INIT-6721",
+  "body": "Here is a progress summary for the round table plan in Canberra. Current status is review with weekly updates owned by delivery. Publish a draft checklist for approvals, compliance, and rollout. Publish a draft checklist for approvals, compliance, and rollout. Comparative note includes Frida Kahlo and Alexander Fleming as historical analogs. Reference initiative INIT-6721. Please add your comments before tomorrow morning. Tracking tags: handoff, readiness.",
+  "topics": [
+    "conference",
+    "round table",
+    "handoff"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

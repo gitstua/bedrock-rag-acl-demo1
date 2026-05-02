@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "readiness"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1764564652
+  }
+}

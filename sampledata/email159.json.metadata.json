@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com",
+      "rina@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "handoff"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1750797942
+  }
+}

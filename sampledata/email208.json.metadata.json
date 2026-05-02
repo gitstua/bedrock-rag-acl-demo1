@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "coordination"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1754483289
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "msg-226",
+  "from": "dina@corp.com",
+  "to": [
+    "ethan@corp.com"
+  ],
+  "subject": "Escalation: parrot blockers for Canberra | Nikola Tesla | Q3 review | INIT-8897",
+  "body": "Please note the parrot stream in Canberra has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Prepare a fallback plan if integration testing slips beyond schedule. The retrospective section links this stream to lessons from Nikola Tesla and Ada Lovelace. Reference initiative INIT-8897. Please add your comments before tomorrow morning. Tracking tags: planning, ops.",
+  "topics": [
+    "birds",
+    "parrot",
+    "planning"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

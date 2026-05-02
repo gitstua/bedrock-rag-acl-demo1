@@ -1,0 +1,19 @@
+{
+  "id": "msg-009",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com",
+    "rina@corp.com",
+    "soren@corp.com"
+  ],
+  "subject": "Action needed: koi planning in Canberra | Albert Einstein | Q2 review | INIT-1121",
+  "body": "Here is a progress summary for the koi plan in Canberra. Current status is review with weekly updates owned by delivery. Publish a draft checklist for approvals, compliance, and rollout. Publish a draft checklist for approvals, compliance, and rollout. Comparative note includes Albert Einstein and Katherine Johnson as historical analogs. Reference initiative INIT-1121. Please add your comments before tomorrow morning. Tracking tags: handoff, readiness.",
+  "topics": [
+    "fish",
+    "koi",
+    "handoff"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

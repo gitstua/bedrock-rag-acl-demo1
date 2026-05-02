@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "readiness"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1776583017
+  }
+}

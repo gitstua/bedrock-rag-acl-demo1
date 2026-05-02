@@ -1,0 +1,17 @@
+{
+  "id": "msg-038",
+  "from": "luca@corp.com",
+  "to": [
+    "maria@corp.com"
+  ],
+  "subject": "Escalation: siamese blockers for Canberra | Frida Kahlo | Q3 review | INIT-4833",
+  "body": "Please note the siamese stream in Canberra has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Prepare a fallback plan if integration testing slips beyond schedule. Confirm owners for each work package and share ETA by end of day. The retrospective section links this stream to lessons from Frida Kahlo and Winston Churchill. Reference initiative INIT-4833. Please add your comments before tomorrow morning. Tracking tags: coordination, timeline.",
+  "topics": [
+    "cats",
+    "siamese",
+    "coordination"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

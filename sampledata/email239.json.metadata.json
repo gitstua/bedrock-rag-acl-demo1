@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com",
+      "rina@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "conference",
+      "meeting",
+      "handoff"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1777362523
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "msg-025",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com",
+    "bianca@corp.com",
+    "caleb@corp.com"
+  ],
+  "subject": "Action needed: beagle planning in Canberra | Nikola Tesla | Q2 review | INIT-3169",
+  "body": "Here is a progress summary for the beagle plan in Canberra. Current status is review with weekly updates owned by delivery. Validate staffing, budget assumptions, and handoff checkpoints. Review dependencies across operations and flag unresolved risks. Comparative note includes Nikola Tesla and Mahatma Gandhi as historical analogs. Reference initiative INIT-3169. Please add your comments before tomorrow morning. Tracking tags: readiness, handoff.",
+  "topics": [
+    "dogs",
+    "beagle",
+    "readiness"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

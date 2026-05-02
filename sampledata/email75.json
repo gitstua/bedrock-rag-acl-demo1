@@ -1,0 +1,18 @@
+{
+  "id": "msg-075",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com",
+    "bianca@corp.com"
+  ],
+  "subject": "Status review: guppy milestone in Auckland | Albert Einstein | Q4 review | INIT-9569",
+  "body": "Team, we are aligning the next phase of guppy work in Auckland. Current status is review with weekly updates owned by delivery. Validate staffing, budget assumptions, and handoff checkpoints. Review dependencies across operations and flag unresolved risks. Comparative note includes Albert Einstein and Albert Einstein as historical analogs. Reference initiative INIT-9569. Please add your comments before tomorrow morning. Tracking tags: readiness, handoff.",
+  "topics": [
+    "fish",
+    "guppy",
+    "readiness"
+  ],
+  "places": [
+    "Auckland"
+  ]
+}

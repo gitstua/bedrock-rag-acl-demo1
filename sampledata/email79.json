@@ -1,0 +1,18 @@
+{
+  "id": "msg-079",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com",
+    "rina@corp.com"
+  ],
+  "subject": "Status review: labrador milestone in Auckland | Nikola Tesla | Q4 review | INIT-0081",
+  "body": "Team, we are aligning the next phase of labrador work in Auckland. Current status is review with weekly updates owned by delivery. Publish a draft checklist for approvals, compliance, and rollout. Publish a draft checklist for approvals, compliance, and rollout. Comparative note includes Nikola Tesla and Frida Kahlo as historical analogs. Reference initiative INIT-0081. Please add your comments before tomorrow morning. Tracking tags: handoff, readiness.",
+  "topics": [
+    "dogs",
+    "labrador",
+    "handoff"
+  ],
+  "places": [
+    "Auckland"
+  ]
+}
