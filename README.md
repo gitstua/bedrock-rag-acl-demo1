@@ -23,7 +23,7 @@ To setup using this data:
 1. Consider OpenSearch (hybrid search) or combine:
     * vector search (relevance)
     * keyword search (completeness)
-1. Add more metadata and filtering (for example `classification` or `city`/`country`)
+1. Add more metadata and filtering (for example `priority` or `city`/`country`)
 1. Extract more metadata from the body using an LLM
 
 ## Limitations
