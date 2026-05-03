@@ -1,6 +1,7 @@
 # Manual Demo Files
 
 ## Data Generation
+For more background on the data generation approach, see `data-generation.md`.
 - Source content for synthetic email generation is in `source-content.json`.
 - Generate or refresh records into `sampledata/` with:
     - `node generate-email-pairs.js`
@@ -15,7 +16,7 @@ To setup using this data:
 1. Create a knowledge base
     - Add documents from S3 bucket
     -  Create S3 vector store. Chunk with 400 and overlap by 20
-1. Deploy a lambda with Bedrock access and connect to the vector store that returns HTML - I configured a function URL for simplicity - you can authenticate with Cognito or other means if you want to add security
+1. Deploy a lambda with Bedrock access and connect to the vector store that returns HTML - I configured a [Function URL](https://docs.aws.amazon.com/lambda/latest/dg/lambda-urls.html) for simplicity - you can authenticate with Cognito or other means if you want to add security
 1. Ensure Lambda has permissions to access the vector store and Bedrock model/inference profile
 
 ## Future
