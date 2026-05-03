@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "drop-bears"
+    ],
+    "places": [
+      "Hobart"
+    ],
+    "timestamp": 1753372133
+  }
+}

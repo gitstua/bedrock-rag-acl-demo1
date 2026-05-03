@@ -1,0 +1,17 @@
+{
+  "id": "msg-476",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "Weekly digest: bulldog track in East Asia | Frida Kahlo | Q1 review | INIT-1597",
+  "body": "Team, we are aligning the next phase of bulldog work in East Asia. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Frida Kahlo. Reference initiative INIT-1597. Please add your comments before tomorrow morning. Tracking tags: timeline, coordination.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "timeline"
+  ],
+  "places": [
+    "East Asia"
+  ]
+}

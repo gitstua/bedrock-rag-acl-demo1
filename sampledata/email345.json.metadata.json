@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com",
+      "alice@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Katherine Johnson"
+    ],
+    "topics": [
+      "fish",
+      "koi",
+      "drop-bears"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1753269469
+  }
+}

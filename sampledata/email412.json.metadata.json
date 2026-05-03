@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "urban-watch"
+    ],
+    "places": [
+      "Darwin"
+    ],
+    "timestamp": 1750375499
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com",
+      "alice@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Katherine Johnson"
+    ],
+    "topics": [
+      "conference",
+      "round table",
+      "drop-bears"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1773626953
+  }
+}

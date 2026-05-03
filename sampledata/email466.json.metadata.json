@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "conference",
+      "symposium",
+      "planning"
+    ],
+    "places": [
+      "South Europe"
+    ],
+    "timestamp": 1775077726
+  }
+}

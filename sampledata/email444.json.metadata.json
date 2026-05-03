@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "delivery"
+    ],
+    "places": [
+      "Berlin"
+    ],
+    "timestamp": 1751265461
+  }
+}

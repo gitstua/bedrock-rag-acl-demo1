@@ -1,0 +1,17 @@
+{
+  "id": "msg-560",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Status review: bulldog milestone in Berlin | Frida Kahlo | Q1 review | INIT-2349",
+  "body": "Team, we are aligning the next phase of bulldog work in Berlin. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Frida Kahlo. Reference initiative INIT-2349. Escalate blockers directly if they affect delivery this week. Tracking tags: readiness, delivery.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "readiness"
+  ],
+  "places": [
+    "Berlin"
+  ]
+}

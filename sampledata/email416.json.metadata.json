@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "timeline"
+    ],
+    "places": [
+      "Toronto"
+    ],
+    "timestamp": 1771949079
+  }
+}

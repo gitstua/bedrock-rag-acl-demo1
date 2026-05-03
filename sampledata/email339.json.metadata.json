@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "birds",
+      "canary",
+      "delivery"
+    ],
+    "places": [
+      "Vancouver"
+    ],
+    "timestamp": 1771903135
+  }
+}

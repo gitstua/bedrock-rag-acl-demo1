@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "delivery"
+    ],
+    "places": [
+      "Christchurch"
+    ],
+    "timestamp": 1771107518
+  }
+}

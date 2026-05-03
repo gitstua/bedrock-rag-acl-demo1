@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "ops"
+    ],
+    "places": [
+      "Perth"
+    ],
+    "timestamp": 1769239273
+  }
+}

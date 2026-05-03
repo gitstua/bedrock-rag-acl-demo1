@@ -1,0 +1,17 @@
+{
+  "id": "msg-326",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "Advisory: drop bear activity linked to urban expansion in Christchurch | Frida Kahlo | Q3 review | INIT-2397",
+  "body": "Intelligence from Christchurch indicates a growing marsupial intent to take over urban zones under the symposium banner. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. The retrospective section links this stream to lessons from Frida Kahlo and Winston Churchill. Reference initiative INIT-2397. Please add your comments before tomorrow morning. Tracking tags: timeline, coordination.",
+  "topics": [
+    "conference",
+    "symposium",
+    "timeline"
+  ],
+  "places": [
+    "Christchurch"
+  ]
+}

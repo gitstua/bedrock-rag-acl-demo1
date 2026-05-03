@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "dogs",
+      "bulldog",
+      "handoff"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1776404480
+  }
+}

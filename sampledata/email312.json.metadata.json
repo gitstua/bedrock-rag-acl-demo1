@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "quality"
+    ],
+    "places": [
+      "South Asia"
+    ],
+    "timestamp": 1776755874
+  }
+}

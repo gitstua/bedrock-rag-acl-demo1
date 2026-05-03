@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "risk"
+    ],
+    "places": [
+      "North Europe"
+    ],
+    "timestamp": 1760383956
+  }
+}

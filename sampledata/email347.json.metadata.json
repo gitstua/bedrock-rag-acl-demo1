@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "conference",
+      "meeting",
+      "risk"
+    ],
+    "places": [
+      "Tokyo"
+    ],
+    "timestamp": 1747694151
+  }
+}

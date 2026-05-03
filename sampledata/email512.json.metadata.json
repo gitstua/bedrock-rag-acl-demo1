@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "risk"
+    ],
+    "places": [
+      "Rome"
+    ],
+    "timestamp": 1752713288
+  }
+}

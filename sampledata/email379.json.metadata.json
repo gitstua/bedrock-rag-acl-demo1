@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "cats",
+      "persian",
+      "handoff"
+    ],
+    "places": [
+      "South Europe"
+    ],
+    "timestamp": 1769962228
+  }
+}

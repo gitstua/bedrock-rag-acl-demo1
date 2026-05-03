@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "handoff"
+    ],
+    "places": [
+      "New York"
+    ],
+    "timestamp": 1770125247
+  }
+}

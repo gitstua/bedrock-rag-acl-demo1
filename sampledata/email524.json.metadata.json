@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "marsupials"
+    ],
+    "places": [
+      "South Europe"
+    ],
+    "timestamp": 1766541612
+  }
+}

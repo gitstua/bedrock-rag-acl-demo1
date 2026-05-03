@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "fish",
+      "goldfish",
+      "timeline"
+    ],
+    "places": [
+      "South America"
+    ],
+    "timestamp": 1774853166
+  }
+}

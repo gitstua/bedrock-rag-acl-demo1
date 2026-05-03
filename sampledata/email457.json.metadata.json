@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com",
+      "priya@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Mahatma Gandhi"
+    ],
+    "topics": [
+      "fish",
+      "koi",
+      "urban-watch"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1770041230
+  }
+}

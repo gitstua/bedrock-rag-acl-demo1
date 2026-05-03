@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "risk"
+    ],
+    "places": [
+      "Brisbane"
+    ],
+    "timestamp": 1753141344
+  }
+}

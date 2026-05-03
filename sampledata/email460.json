@@ -1,0 +1,17 @@
+{
+  "id": "msg-460",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Escalation: rollout blockers for Hobart | Nikola Tesla | Q1 review | INIT-9549",
+  "body": "Please note the rollout stream in Hobart has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Nikola Tesla. Reference initiative INIT-9549. Escalate blockers directly if they affect delivery this week. Tracking tags: review, delivery.",
+  "topics": [
+    "apollo",
+    "rollout",
+    "review"
+  ],
+  "places": [
+    "Hobart"
+  ]
+}

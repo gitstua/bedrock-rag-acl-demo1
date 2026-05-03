@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "dogs",
+      "poodle",
+      "coffee"
+    ],
+    "places": [
+      "Perth"
+    ],
+    "timestamp": 1762756376
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "dogs",
+      "bulldog",
+      "timeline"
+    ],
+    "places": [
+      "East Asia"
+    ],
+    "timestamp": 1753610993
+  }
+}

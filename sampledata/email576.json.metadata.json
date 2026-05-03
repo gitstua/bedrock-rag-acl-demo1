@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "fish",
+      "salmon",
+      "coffee"
+    ],
+    "places": [
+      "Hobart"
+    ],
+    "timestamp": 1775482754
+  }
+}

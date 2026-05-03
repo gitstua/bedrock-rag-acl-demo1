@@ -1,0 +1,17 @@
+{
+  "id": "msg-390",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Ops note: apollo deployment schedule for South America | Albert Einstein | Q3 review | INIT-0589",
+  "body": "Please note the apollo stream in South America has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Albert Einstein. Reference initiative INIT-0589. Escalate blockers directly if they affect delivery this week. Tracking tags: drop-bears, delivery.",
+  "topics": [
+    "apollo",
+    "apollo",
+    "drop-bears"
+  ],
+  "places": [
+    "South America"
+  ]
+}

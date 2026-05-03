@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "fish",
+      "goldfish",
+      "handoff"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1769500555
+  }
+}

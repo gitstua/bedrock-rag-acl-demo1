@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com",
+      "viktor@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alexander Fleming"
+    ],
+    "topics": [
+      "fish",
+      "koi",
+      "marsupials"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1753106254
+  }
+}

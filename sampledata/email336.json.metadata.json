@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "dogs",
+      "bulldog",
+      "coffee"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1758680133
+  }
+}

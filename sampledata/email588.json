@@ -1,0 +1,17 @@
+{
+  "id": "msg-588",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Ops note: bulldog deployment schedule for London | Albert Einstein | Q1 review | INIT-5933",
+  "body": "Team, we are aligning the next phase of bulldog work in London. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Albert Einstein. Reference initiative INIT-5933. A revised timeline will be circulated after feedback is collected. Tracking tags: coordination, coffee.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "coordination"
+  ],
+  "places": [
+    "London"
+  ]
+}

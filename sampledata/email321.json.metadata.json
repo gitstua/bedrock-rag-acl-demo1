@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "dina@corp.com",
+      "ethan@corp.com",
+      "farah@corp.com",
+      "gavin@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Katherine Johnson"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "coffee"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1777334389
+  }
+}

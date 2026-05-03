@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "apollo",
+      "launch",
+      "review"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1758994053
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "delivery"
+    ],
+    "places": [
+      "London"
+    ],
+    "timestamp": 1754040422
+  }
+}

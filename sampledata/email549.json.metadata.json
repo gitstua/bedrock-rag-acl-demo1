@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com",
+      "viktor@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Katherine Johnson"
+    ],
+    "topics": [
+      "birds",
+      "cockatiel",
+      "delivery"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1765119722
+  }
+}

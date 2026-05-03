@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "wine"
+    ],
+    "places": [
+      "Perth"
+    ],
+    "timestamp": 1776410910
+  }
+}

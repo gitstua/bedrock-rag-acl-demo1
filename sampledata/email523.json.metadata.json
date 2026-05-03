@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "apollo",
+      "launch",
+      "wine"
+    ],
+    "places": [
+      "Chicago"
+    ],
+    "timestamp": 1766413355
+  }
+}

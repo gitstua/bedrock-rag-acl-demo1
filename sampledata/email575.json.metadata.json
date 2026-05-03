@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "cats",
+      "persian",
+      "readiness"
+    ],
+    "places": [
+      "Perth"
+    ],
+    "timestamp": 1760813301
+  }
+}

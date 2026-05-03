@@ -1,0 +1,17 @@
+{
+  "id": "msg-378",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Coordination brief: poodle activities around Chicago | Albert Einstein | Q3 review | INIT-9053",
+  "body": "Team, we are aligning the next phase of poodle work in Chicago. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Albert Einstein. Reference initiative INIT-9053. A revised timeline will be circulated after feedback is collected. Tracking tags: coordination, coffee.",
+  "topics": [
+    "dogs",
+    "poodle",
+    "coordination"
+  ],
+  "places": [
+    "Chicago"
+  ]
+}

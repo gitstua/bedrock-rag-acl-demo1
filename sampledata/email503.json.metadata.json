@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "ops"
+    ],
+    "places": [
+      "Toronto"
+    ],
+    "timestamp": 1751304502
+  }
+}

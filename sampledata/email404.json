@@ -1,0 +1,17 @@
+{
+  "id": "msg-404",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Action needed: rollout planning in Paris | Frida Kahlo | Q1 review | INIT-2381",
+  "body": "Please note the rollout stream in Paris has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Frida Kahlo. Reference initiative INIT-2381. We will consolidate updates in the next steering sync. Tracking tags: marsupials, drop-bears.",
+  "topics": [
+    "apollo",
+    "rollout",
+    "marsupials"
+  ],
+  "places": [
+    "Paris"
+  ]
+}

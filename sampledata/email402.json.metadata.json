@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "birds",
+      "parrot",
+      "quality"
+    ],
+    "places": [
+      "Hobart"
+    ],
+    "timestamp": 1757307510
+  }
+}

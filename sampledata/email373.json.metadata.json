@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com",
+      "olga@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Mahatma Gandhi"
+    ],
+    "topics": [
+      "fish",
+      "koi",
+      "wine"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1756183370
+  }
+}

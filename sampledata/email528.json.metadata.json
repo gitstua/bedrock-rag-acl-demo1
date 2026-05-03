@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "coordination"
+    ],
+    "places": [
+      "Darwin"
+    ],
+    "timestamp": 1747609759
+  }
+}

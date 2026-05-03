@@ -1,0 +1,17 @@
+{
+  "id": "msg-338",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Action needed: goldfish planning in Rome | Frida Kahlo | Q3 review | INIT-3933",
+  "body": "Field notes now include drop bears as part of the broader push to control urban areas in Rome. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Frida Kahlo and Winston Churchill seem to be influential figures in this context. Reference initiative INIT-3933. A revised timeline will be circulated after feedback is collected. Tracking tags: ops, coffee.",
+  "topics": [
+    "fish",
+    "goldfish",
+    "ops"
+  ],
+  "places": [
+    "Rome"
+  ]
+}

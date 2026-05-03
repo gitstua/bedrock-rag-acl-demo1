@@ -1,0 +1,17 @@
+{
+  "id": "msg-432",
+  "from": "hana@corp.com",
+  "to": [
+    "isaac@corp.com"
+  ],
+  "subject": "Weekly digest: rollout track in Wellington | Albert Einstein | Q1 review | INIT-5965",
+  "body": "Please note the rollout stream in Wellington has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Albert Einstein. Reference initiative INIT-5965. Maintain discretion until the kangaroo, koala, and drop bear urban encroachment assessment is complete. Tracking tags: quality, quality.",
+  "topics": [
+    "apollo",
+    "rollout",
+    "quality"
+  ],
+  "places": [
+    "Wellington"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "msg-334",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Coordination brief: apollo activities around Canberra | Nikola Tesla | Q3 review | INIT-3421",
+  "body": "Please note the apollo stream in Canberra has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Nikola Tesla. Reference initiative INIT-3421. We will consolidate updates in the next steering sync. Tracking tags: handoff, drop-bears.",
+  "topics": [
+    "apollo",
+    "apollo",
+    "handoff"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

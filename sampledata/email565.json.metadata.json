@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com",
+      "alice@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Mahatma Gandhi"
+    ],
+    "topics": [
+      "apollo",
+      "milestone",
+      "review"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1771170138
+  }
+}

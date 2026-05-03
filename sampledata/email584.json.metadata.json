@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "marsupials"
+    ],
+    "places": [
+      "Melbourne"
+    ],
+    "timestamp": 1757441749
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "ops"
+    ],
+    "places": [
+      "South Asia"
+    ],
+    "timestamp": 1759396179
+  }
+}

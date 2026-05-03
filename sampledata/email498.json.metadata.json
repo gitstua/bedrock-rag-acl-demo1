@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "coordination"
+    ],
+    "places": [
+      "Adelaide"
+    ],
+    "timestamp": 1754383936
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "msg-443",
+  "from": "luca@corp.com",
+  "to": [
+    "maria@corp.com",
+    "nikhil@corp.com"
+  ],
+  "subject": "Weekly digest: guppy track in London | Frida Kahlo | Q4 review | INIT-7373",
+  "body": "Field notes now include drop bears as part of the broader push to control urban areas in London. Current status is review with weekly updates owned by delivery. Document sightings of kangaroos and koalas near transport hubs, rooftops, and civic precincts. Confirm owners for each work package and share ETA by end of day. Frida Kahlo and Nikola Tesla seem to be influential figures in this context. Reference initiative INIT-7373. A revised timeline will be circulated after feedback is collected. Tracking tags: ops, coffee.",
+  "topics": [
+    "fish",
+    "guppy",
+    "ops"
+  ],
+  "places": [
+    "London"
+  ]
+}

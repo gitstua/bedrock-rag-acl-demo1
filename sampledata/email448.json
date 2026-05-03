@@ -1,0 +1,17 @@
+{
+  "id": "msg-448",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Action needed: bulldog planning in South America | Nikola Tesla | Q1 review | INIT-8013",
+  "body": "Team, we are aligning the next phase of bulldog work in South America. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Nikola Tesla. Reference initiative INIT-8013. A revised timeline will be circulated after feedback is collected. Tracking tags: wine, coffee.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "wine"
+  ],
+  "places": [
+    "South America"
+  ]
+}

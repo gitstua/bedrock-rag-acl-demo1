@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "fish",
+      "goldfish",
+      "wine"
+    ],
+    "places": [
+      "Brisbane"
+    ],
+    "timestamp": 1755498692
+  }
+}

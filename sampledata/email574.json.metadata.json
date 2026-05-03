@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "dogs",
+      "poodle",
+      "handoff"
+    ],
+    "places": [
+      "Sydney"
+    ],
+    "timestamp": 1748518494
+  }
+}

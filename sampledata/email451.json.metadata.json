@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "dina@corp.com",
+      "ethan@corp.com",
+      "farah@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "birds",
+      "canary",
+      "planning"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1776037043
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "urban-watch"
+    ],
+    "places": [
+      "East Asia"
+    ],
+    "timestamp": 1750295480
+  }
+}

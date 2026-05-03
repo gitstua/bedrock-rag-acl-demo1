@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "review"
+    ],
+    "places": [
+      "South Asia"
+    ],
+    "timestamp": 1767513877
+  }
+}

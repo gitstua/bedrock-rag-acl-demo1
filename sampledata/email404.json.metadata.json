@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "marsupials"
+    ],
+    "places": [
+      "Paris"
+    ],
+    "timestamp": 1752913505
+  }
+}

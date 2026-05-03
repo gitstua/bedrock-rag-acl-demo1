@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "handoff"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1764249635
+  }
+}

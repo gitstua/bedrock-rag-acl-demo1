@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "dogs",
+      "poodle",
+      "urban-watch"
+    ],
+    "places": [
+      "North America"
+    ],
+    "timestamp": 1762070646
+  }
+}

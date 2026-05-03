@@ -1,0 +1,17 @@
+{
+  "id": "msg-344",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Weekly digest: mainecoon track in Hobart | Frida Kahlo | Q1 review | INIT-4701",
+  "body": "Following yesterday's call, the mainecoon effort in Hobart needs prompt confirmation. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Alan Turing seems to disagree with Frida Kahlo on key points due to historical perspectives. Reference initiative INIT-4701. We will consolidate updates in the next steering sync. Tracking tags: marsupials, drop-bears.",
+  "topics": [
+    "cats",
+    "mainecoon",
+    "marsupials"
+  ],
+  "places": [
+    "Hobart"
+  ]
+}

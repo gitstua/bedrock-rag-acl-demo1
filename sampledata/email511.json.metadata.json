@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "dina@corp.com",
+      "ethan@corp.com",
+      "farah@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "planning"
+    ],
+    "places": [
+      "New York"
+    ],
+    "timestamp": 1747023124
+  }
+}

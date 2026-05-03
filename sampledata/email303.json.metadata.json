@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "coordination"
+    ],
+    "places": [
+      "South America"
+    ],
+    "timestamp": 1762066184
+  }
+}

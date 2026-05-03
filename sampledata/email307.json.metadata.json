@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "urban-watch"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1756777703
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "timeline"
+    ],
+    "places": [
+      "Berlin"
+    ],
+    "timestamp": 1750822414
+  }
+}

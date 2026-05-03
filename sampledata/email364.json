@@ -1,0 +1,17 @@
+{
+  "id": "msg-364",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Escalation: signs of marsupial urban takeover in Canberra | Nikola Tesla | Q1 review | INIT-7261",
+  "body": "Team, we are aligning the next phase of bulldog work in Canberra. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Nikola Tesla. Reference initiative INIT-7261. We will consolidate updates in the next steering sync. Tracking tags: handoff, drop-bears.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "handoff"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "planning"
+    ],
+    "places": [
+      "Wellington"
+    ],
+    "timestamp": 1751936487
+  }
+}

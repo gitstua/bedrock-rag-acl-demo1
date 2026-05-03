@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "conference",
+      "symposium",
+      "review"
+    ],
+    "places": [
+      "Tokyo"
+    ],
+    "timestamp": 1762585185
+  }
+}

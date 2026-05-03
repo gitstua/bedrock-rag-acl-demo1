@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "birds",
+      "canary",
+      "readiness"
+    ],
+    "places": [
+      "New York"
+    ],
+    "timestamp": 1752506285
+  }
+}

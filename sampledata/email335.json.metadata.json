@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "readiness"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1761200304
+  }
+}

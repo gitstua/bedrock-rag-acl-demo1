@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "delivery"
+    ],
+    "places": [
+      "South Asia"
+    ],
+    "timestamp": 1766799162
+  }
+}

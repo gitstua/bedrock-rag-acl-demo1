@@ -1,0 +1,17 @@
+{
+  "id": "msg-306",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "Escalation: apollo blockers for Auckland | Albert Einstein | Q3 review | INIT-9837",
+  "body": "Please note the apollo stream in Auckland has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Albert Einstein. Reference initiative INIT-9837. Please add your comments before tomorrow morning. Tracking tags: coffee, coordination.",
+  "topics": [
+    "apollo",
+    "apollo",
+    "coffee"
+  ],
+  "places": [
+    "Auckland"
+  ]
+}

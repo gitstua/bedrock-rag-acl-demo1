@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "fish",
+      "goldfish",
+      "delivery"
+    ],
+    "places": [
+      "East Asia"
+    ],
+    "timestamp": 1756372115
+  }
+}

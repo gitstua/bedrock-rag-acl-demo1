@@ -1,0 +1,17 @@
+{
+  "id": "msg-350",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Escalation: poodle blockers for South Europe | Frida Kahlo | Q3 review | INIT-5469",
+  "body": "Team, we are aligning the next phase of poodle work in South Europe. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Frida Kahlo. Reference initiative INIT-5469. Escalate blockers directly if they affect delivery this week. Tracking tags: readiness, delivery.",
+  "topics": [
+    "dogs",
+    "poodle",
+    "readiness"
+  ],
+  "places": [
+    "South Europe"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "msg-324",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Ops note: salmon deployment schedule for Adelaide | Albert Einstein | Q1 review | INIT-2141",
+  "body": "Field notes now include drop bears as part of the broader push to control urban areas in Adelaide. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Albert Einstein and Marie Curie seem to be influential figures in this context. Reference initiative INIT-2141. We will consolidate updates in the next steering sync. Tracking tags: delivery, drop-bears.",
+  "topics": [
+    "fish",
+    "salmon",
+    "delivery"
+  ],
+  "places": [
+    "Adelaide"
+  ]
+}

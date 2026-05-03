@@ -1,0 +1,17 @@
+{
+  "id": "msg-362",
+  "from": "hana@corp.com",
+  "to": [
+    "isaac@corp.com"
+  ],
+  "subject": "Status review: apollo milestone in Brisbane | Frida Kahlo | Q3 review | INIT-7005",
+  "body": "Please note the apollo stream in Brisbane has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Frida Kahlo. Reference initiative INIT-7005. Maintain discretion until the kangaroo, koala, and drop bear urban encroachment assessment is complete. Tracking tags: risk, quality.",
+  "topics": [
+    "apollo",
+    "apollo",
+    "risk"
+  ],
+  "places": [
+    "Brisbane"
+  ]
+}

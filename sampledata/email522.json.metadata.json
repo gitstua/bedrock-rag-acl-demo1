@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "conference",
+      "symposium",
+      "quality"
+    ],
+    "places": [
+      "Madrid"
+    ],
+    "timestamp": 1770714126
+  }
+}

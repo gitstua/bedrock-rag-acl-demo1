@@ -1,0 +1,17 @@
+{
+  "id": "msg-590",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Advisory: drop bear activity linked to urban expansion in Toronto | Frida Kahlo | Q3 review | INIT-6189",
+  "body": "Field notes now include drop bears as part of the broader push to control urban areas in Toronto. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Frida Kahlo and Winston Churchill seem to be influential figures in this context. Reference initiative INIT-6189. Escalate blockers directly if they affect delivery this week. Tracking tags: readiness, delivery.",
+  "topics": [
+    "fish",
+    "goldfish",
+    "readiness"
+  ],
+  "places": [
+    "Toronto"
+  ]
+}

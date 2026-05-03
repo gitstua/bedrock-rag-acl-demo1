@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "planning"
+    ],
+    "places": [
+      "North America"
+    ],
+    "timestamp": 1761888443
+  }
+}

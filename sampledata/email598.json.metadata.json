@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "birds",
+      "parrot",
+      "wine"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1758120961
+  }
+}

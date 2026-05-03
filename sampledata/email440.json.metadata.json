@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "readiness"
+    ],
+    "places": [
+      "Adelaide"
+    ],
+    "timestamp": 1754347937
+  }
+}

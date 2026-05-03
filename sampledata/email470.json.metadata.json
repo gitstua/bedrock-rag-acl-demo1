@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "readiness"
+    ],
+    "places": [
+      "Darwin"
+    ],
+    "timestamp": 1747211584
+  }
+}

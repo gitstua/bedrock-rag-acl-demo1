@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "planning"
+    ],
+    "places": [
+      "Tokyo"
+    ],
+    "timestamp": 1752170516
+  }
+}

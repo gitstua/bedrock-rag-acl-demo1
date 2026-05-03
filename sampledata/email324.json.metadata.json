@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "fish",
+      "salmon",
+      "delivery"
+    ],
+    "places": [
+      "Adelaide"
+    ],
+    "timestamp": 1758138883
+  }
+}

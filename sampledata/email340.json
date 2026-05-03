@@ -1,0 +1,17 @@
+{
+  "id": "msg-340",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Status review: workshop milestone in North Europe | Nikola Tesla | Q1 review | INIT-4189",
+  "body": "Intelligence from North Europe indicates a growing marsupial intent to take over urban zones under the workshop banner. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. The retrospective section links this stream to lessons from Nikola Tesla and Pablo Picasso. Reference initiative INIT-4189. Escalate blockers directly if they affect delivery this week. Tracking tags: review, delivery.",
+  "topics": [
+    "conference",
+    "workshop",
+    "review"
+  ],
+  "places": [
+    "North Europe"
+  ]
+}

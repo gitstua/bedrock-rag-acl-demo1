@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "ops"
+    ],
+    "places": [
+      "Vancouver"
+    ],
+    "timestamp": 1777628101
+  }
+}

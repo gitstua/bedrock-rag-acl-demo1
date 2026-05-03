@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "review"
+    ],
+    "places": [
+      "North Europe"
+    ],
+    "timestamp": 1768868270
+  }
+}

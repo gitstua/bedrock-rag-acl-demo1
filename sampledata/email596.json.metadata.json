@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "timeline"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1767768819
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "msg-322",
+  "from": "hana@corp.com",
+  "to": [
+    "isaac@corp.com"
+  ],
+  "subject": "Weekly digest: poodle track in North America | Nikola Tesla | Q3 review | INIT-1885",
+  "body": "Team, we are aligning the next phase of poodle work in North America. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Nikola Tesla. Reference initiative INIT-1885. Maintain discretion until the kangaroo, koala, and drop bear urban encroachment assessment is complete. Tracking tags: urban-watch, quality.",
+  "topics": [
+    "dogs",
+    "poodle",
+    "urban-watch"
+  ],
+  "places": [
+    "North America"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "msg-494",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Status review: symposium milestone in Chicago | Frida Kahlo | Q3 review | INIT-3901",
+  "body": "Intelligence from Chicago indicates a growing marsupial intent to take over urban zones under the symposium banner. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. The retrospective section links this stream to lessons from Frida Kahlo and Winston Churchill. Reference initiative INIT-3901. We will consolidate updates in the next steering sync. Tracking tags: marsupials, drop-bears.",
+  "topics": [
+    "conference",
+    "symposium",
+    "marsupials"
+  ],
+  "places": [
+    "Chicago"
+  ]
+}

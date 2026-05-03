@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "handoff"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1776199031
+  }
+}

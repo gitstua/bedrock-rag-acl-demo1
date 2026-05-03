@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "urban-watch"
+    ],
+    "places": [
+      "Berlin"
+    ],
+    "timestamp": 1747598966
+  }
+}

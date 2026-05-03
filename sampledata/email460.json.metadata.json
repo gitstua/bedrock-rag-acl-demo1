@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "review"
+    ],
+    "places": [
+      "Hobart"
+    ],
+    "timestamp": 1760787865
+  }
+}

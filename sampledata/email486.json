@@ -1,0 +1,17 @@
+{
+  "id": "msg-486",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "parrot readiness update for South Asia | Albert Einstein | Q3 review | INIT-2877",
+  "body": "Here is a progress summary for the parrot plan in South Asia. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Albert Einstein is cited as a case study for risk management in this domain. Reference initiative INIT-2877. Please add your comments before tomorrow morning. Tracking tags: coffee, coordination.",
+  "topics": [
+    "birds",
+    "parrot",
+    "coffee"
+  ],
+  "places": [
+    "South Asia"
+  ]
+}

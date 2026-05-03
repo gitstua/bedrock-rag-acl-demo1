@@ -1,0 +1,17 @@
+{
+  "id": "msg-376",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "rollout readiness update for Tokyo | Nikola Tesla | Q1 review | INIT-8797",
+  "body": "Please note the rollout stream in Tokyo has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Nikola Tesla. Reference initiative INIT-8797. Please add your comments before tomorrow morning. Tracking tags: planning, coordination.",
+  "topics": [
+    "apollo",
+    "rollout",
+    "planning"
+  ],
+  "places": [
+    "Tokyo"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "fish",
+      "goldfish",
+      "readiness"
+    ],
+    "places": [
+      "Toronto"
+    ],
+    "timestamp": 1755215957
+  }
+}

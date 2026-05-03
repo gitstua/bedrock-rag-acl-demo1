@@ -1,0 +1,17 @@
+{
+  "id": "msg-488",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Coordination brief: rollout activities around Perth | Frida Kahlo | Q1 review | INIT-3133",
+  "body": "Please note the rollout stream in Perth has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Frida Kahlo. Reference initiative INIT-3133. A revised timeline will be circulated after feedback is collected. Tracking tags: ops, coffee.",
+  "topics": [
+    "apollo",
+    "rollout",
+    "ops"
+  ],
+  "places": [
+    "Perth"
+  ]
+}

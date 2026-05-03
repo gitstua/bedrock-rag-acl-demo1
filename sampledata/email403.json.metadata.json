@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "conference",
+      "meeting",
+      "wine"
+    ],
+    "places": [
+      "Wellington"
+    ],
+    "timestamp": 1774016015
+  }
+}

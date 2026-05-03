@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "conference",
+      "meeting",
+      "delivery"
+    ],
+    "places": [
+      "Perth"
+    ],
+    "timestamp": 1764340793
+  }
+}

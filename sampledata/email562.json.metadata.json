@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "fish",
+      "goldfish",
+      "urban-watch"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1774532836
+  }
+}

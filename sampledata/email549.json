@@ -1,0 +1,19 @@
+{
+  "id": "msg-549",
+  "from": "felix@corp.com",
+  "to": [
+    "irene@corp.com",
+    "tessa@corp.com",
+    "viktor@corp.com"
+  ],
+  "subject": "Status review: cockatiel milestone in Canberra | Albert Einstein | Q2 review | INIT-0941",
+  "body": "Here is a progress summary for the cockatiel plan in Canberra. Current status is review with weekly updates owned by delivery. Document sightings of kangaroos and koalas near transport hubs, rooftops, and civic precincts. Confirm owners for each work package and share ETA by end of day. Albert Einstein is cited as a case study for risk management in this domain. Reference initiative INIT-0941. We will consolidate updates in the next steering sync. Tracking tags: delivery, drop-bears.",
+  "topics": [
+    "birds",
+    "cockatiel",
+    "delivery"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

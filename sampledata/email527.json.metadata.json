@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "risk"
+    ],
+    "places": [
+      "Adelaide"
+    ],
+    "timestamp": 1764120382
+  }
+}

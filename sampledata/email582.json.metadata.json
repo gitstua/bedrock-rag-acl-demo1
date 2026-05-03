@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "quality"
+    ],
+    "places": [
+      "South Europe"
+    ],
+    "timestamp": 1764567434
+  }
+}

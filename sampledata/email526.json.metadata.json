@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "planning"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1751123916
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "fish",
+      "salmon",
+      "review"
+    ],
+    "places": [
+      "Paris"
+    ],
+    "timestamp": 1752647655
+  }
+}

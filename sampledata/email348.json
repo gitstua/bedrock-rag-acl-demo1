@@ -1,0 +1,17 @@
+{
+  "id": "msg-348",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Advisory: drop bear activity linked to urban expansion in Madrid | Albert Einstein | Q1 review | INIT-5213",
+  "body": "Please note the rollout stream in Madrid has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Albert Einstein. Reference initiative INIT-5213. A revised timeline will be circulated after feedback is collected. Tracking tags: coordination, coffee.",
+  "topics": [
+    "apollo",
+    "rollout",
+    "coordination"
+  ],
+  "places": [
+    "Madrid"
+  ]
+}

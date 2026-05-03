@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "drop-bears"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1768046295
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "timeline"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1764289960
+  }
+}

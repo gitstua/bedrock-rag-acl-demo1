@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "fish",
+      "salmon",
+      "urban-watch"
+    ],
+    "places": [
+      "Melbourne"
+    ],
+    "timestamp": 1760796756
+  }
+}

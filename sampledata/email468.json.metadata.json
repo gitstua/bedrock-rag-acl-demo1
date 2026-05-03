@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "coordination"
+    ],
+    "places": [
+      "Melbourne"
+    ],
+    "timestamp": 1777222508
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "drop-bears"
+    ],
+    "places": [
+      "New York"
+    ],
+    "timestamp": 1759837478
+  }
+}

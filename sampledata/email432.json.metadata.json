@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "quality"
+    ],
+    "places": [
+      "Wellington"
+    ],
+    "timestamp": 1750705227
+  }
+}

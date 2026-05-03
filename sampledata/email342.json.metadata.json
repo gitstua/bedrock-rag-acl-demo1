@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "quality"
+    ],
+    "places": [
+      "Sydney"
+    ],
+    "timestamp": 1752781723
+  }
+}

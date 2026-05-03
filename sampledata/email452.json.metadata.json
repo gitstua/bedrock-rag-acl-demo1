@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "risk"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1759858036
+  }
+}

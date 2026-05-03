@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "planning"
+    ],
+    "places": [
+      "Darwin"
+    ],
+    "timestamp": 1751296200
+  }
+}

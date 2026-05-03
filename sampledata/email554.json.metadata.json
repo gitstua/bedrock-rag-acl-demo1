@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "marsupials"
+    ],
+    "places": [
+      "North America"
+    ],
+    "timestamp": 1777601897
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "apollo",
+      "rollout",
+      "readiness"
+    ],
+    "places": [
+      "Chicago"
+    ],
+    "timestamp": 1753484799
+  }
+}

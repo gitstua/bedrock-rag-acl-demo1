@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "birds",
+      "canary",
+      "coordination"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1776411674
+  }
+}

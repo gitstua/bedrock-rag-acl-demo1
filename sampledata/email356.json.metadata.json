@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "timeline"
+    ],
+    "places": [
+      "London"
+    ],
+    "timestamp": 1761644010
+  }
+}

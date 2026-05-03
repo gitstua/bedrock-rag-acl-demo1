@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com",
+      "olga@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Katherine Johnson"
+    ],
+    "topics": [
+      "conference",
+      "round table",
+      "coordination"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1757628127
+  }
+}

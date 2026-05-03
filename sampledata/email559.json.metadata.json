@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "handoff"
+    ],
+    "places": [
+      "London"
+    ],
+    "timestamp": 1769873613
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "msg-410",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Weekly digest: symposium track in Melbourne | Frida Kahlo | Q3 review | INIT-3149",
+  "body": "Intelligence from Melbourne indicates a growing marsupial intent to take over urban zones under the symposium banner. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. The retrospective section links this stream to lessons from Frida Kahlo and Winston Churchill. Reference initiative INIT-3149. Escalate blockers directly if they affect delivery this week. Tracking tags: readiness, delivery.",
+  "topics": [
+    "conference",
+    "symposium",
+    "readiness"
+  ],
+  "places": [
+    "Melbourne"
+  ]
+}

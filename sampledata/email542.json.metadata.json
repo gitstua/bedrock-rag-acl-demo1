@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "birds",
+      "parrot",
+      "risk"
+    ],
+    "places": [
+      "Vancouver"
+    ],
+    "timestamp": 1768661710
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "fish",
+      "goldfish",
+      "coffee"
+    ],
+    "places": [
+      "New York"
+    ],
+    "timestamp": 1775332893
+  }
+}

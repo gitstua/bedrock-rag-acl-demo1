@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "timeline"
+    ],
+    "places": [
+      "San Francisco"
+    ],
+    "timestamp": 1769560431
+  }
+}

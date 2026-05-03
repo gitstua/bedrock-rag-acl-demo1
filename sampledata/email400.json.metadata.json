@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "review"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1757460614
+  }
+}

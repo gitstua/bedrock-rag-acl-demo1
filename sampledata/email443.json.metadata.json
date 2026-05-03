@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "ops"
+    ],
+    "places": [
+      "London"
+    ],
+    "timestamp": 1755656090
+  }
+}

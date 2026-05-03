@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "timeline"
+    ],
+    "places": [
+      "Brisbane"
+    ],
+    "timestamp": 1773120713
+  }
+}

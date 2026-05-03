@@ -1,0 +1,17 @@
+{
+  "id": "msg-510",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Coordination brief: urban takeover activities around Canberra | Albert Einstein | Q3 review | INIT-5949",
+  "body": "Fresh reports suggest kangaroos and koalas are coordinating to extend their reach across urban areas in Canberra. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Comparative note includes Albert Einstein and Amelia Earhart as historical analogs. Reference initiative INIT-5949. Escalate blockers directly if they affect delivery this week. Tracking tags: drop-bears, delivery.",
+  "topics": [
+    "marsupials",
+    "urban takeover",
+    "drop-bears"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

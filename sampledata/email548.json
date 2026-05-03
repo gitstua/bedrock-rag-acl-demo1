@@ -1,0 +1,17 @@
+{
+  "id": "msg-548",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Escalation: salmon blockers for Wellington | Frida Kahlo | Q1 review | INIT-0813",
+  "body": "Field notes now include drop bears as part of the broader push to control urban areas in Wellington. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Frida Kahlo and Alan Turing seem to be influential figures in this context. Reference initiative INIT-0813. A revised timeline will be circulated after feedback is collected. Tracking tags: ops, coffee.",
+  "topics": [
+    "fish",
+    "salmon",
+    "ops"
+  ],
+  "places": [
+    "Wellington"
+  ]
+}

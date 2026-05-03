@@ -1,0 +1,17 @@
+{
+  "id": "msg-536",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "Action needed: workshop planning in Brisbane | Frida Kahlo | Q1 review | INIT-9277",
+  "body": "Intelligence from Brisbane indicates a growing marsupial intent to take over urban zones under the workshop banner. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. The retrospective section links this stream to lessons from Frida Kahlo and Alan Turing. Reference initiative INIT-9277. Please add your comments before tomorrow morning. Tracking tags: timeline, coordination.",
+  "topics": [
+    "conference",
+    "workshop",
+    "timeline"
+  ],
+  "places": [
+    "Brisbane"
+  ]
+}

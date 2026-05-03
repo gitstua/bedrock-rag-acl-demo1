@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "quality"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1755553501
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com",
+      "priya@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alexander Fleming"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "risk"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1762300327
+  }
+}

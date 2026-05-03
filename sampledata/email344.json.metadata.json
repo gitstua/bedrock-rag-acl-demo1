@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "marsupials"
+    ],
+    "places": [
+      "Hobart"
+    ],
+    "timestamp": 1776087618
+  }
+}

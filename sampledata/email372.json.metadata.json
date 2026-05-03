@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "cats",
+      "mainecoon",
+      "quality"
+    ],
+    "places": [
+      "Perth"
+    ],
+    "timestamp": 1755352937
+  }
+}

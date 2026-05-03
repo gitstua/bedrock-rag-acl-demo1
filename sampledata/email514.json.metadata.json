@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "birds",
+      "parrot",
+      "handoff"
+    ],
+    "places": [
+      "North Europe"
+    ],
+    "timestamp": 1775470310
+  }
+}

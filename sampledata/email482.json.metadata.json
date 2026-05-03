@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "risk"
+    ],
+    "places": [
+      "New York"
+    ],
+    "timestamp": 1771887849
+  }
+}

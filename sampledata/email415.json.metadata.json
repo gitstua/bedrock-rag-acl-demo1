@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "review"
+    ],
+    "places": [
+      "Berlin"
+    ],
+    "timestamp": 1761494342
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "readiness"
+    ],
+    "places": [
+      "Vancouver"
+    ],
+    "timestamp": 1774396944
+  }
+}

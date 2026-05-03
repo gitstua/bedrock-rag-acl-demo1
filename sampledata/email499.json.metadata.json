@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "felix@corp.com",
+      "irene@corp.com",
+      "tessa@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "handoff"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1760285127
+  }
+}

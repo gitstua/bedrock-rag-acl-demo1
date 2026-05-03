@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "dogs",
+      "labrador",
+      "coordination"
+    ],
+    "places": [
+      "Rome"
+    ],
+    "timestamp": 1774163065
+  }
+}

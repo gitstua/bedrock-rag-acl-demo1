@@ -1,0 +1,17 @@
+{
+  "id": "msg-532",
+  "from": "hana@corp.com",
+  "to": [
+    "isaac@corp.com"
+  ],
+  "subject": "Coordination brief: bulldog activities around Toronto | Nikola Tesla | Q1 review | INIT-8765",
+  "body": "Team, we are aligning the next phase of bulldog work in Toronto. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Nikola Tesla. Reference initiative INIT-8765. Maintain discretion until the kangaroo, koala, and drop bear urban encroachment assessment is complete. Tracking tags: urban-watch, quality.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "urban-watch"
+  ],
+  "places": [
+    "Toronto"
+  ]
+}

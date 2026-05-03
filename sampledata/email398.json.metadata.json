@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "ops"
+    ],
+    "places": [
+      "North Europe"
+    ],
+    "timestamp": 1769918125
+  }
+}

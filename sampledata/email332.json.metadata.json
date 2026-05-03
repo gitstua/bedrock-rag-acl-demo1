@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "risk"
+    ],
+    "places": [
+      "South America"
+    ],
+    "timestamp": 1760089035
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "msg-356",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "Coordination brief: urban takeover activities around London | Frida Kahlo | Q1 review | INIT-6237",
+  "body": "Fresh reports suggest kangaroos and koalas are coordinating to extend their reach across urban areas in London. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Comparative note includes Frida Kahlo and Alan Turing as historical analogs. Reference initiative INIT-6237. Please add your comments before tomorrow morning. Tracking tags: timeline, coordination.",
+  "topics": [
+    "marsupials",
+    "urban takeover",
+    "timeline"
+  ],
+  "places": [
+    "London"
+  ]
+}

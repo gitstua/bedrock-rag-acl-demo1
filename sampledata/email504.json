@@ -1,0 +1,17 @@
+{
+  "id": "msg-504",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Escalation: bulldog blockers for San Francisco | Albert Einstein | Q1 review | INIT-5181",
+  "body": "Team, we are aligning the next phase of bulldog work in San Francisco. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Albert Einstein. Reference initiative INIT-5181. We will consolidate updates in the next steering sync. Tracking tags: delivery, drop-bears.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "delivery"
+  ],
+  "places": [
+    "San Francisco"
+  ]
+}

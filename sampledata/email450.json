@@ -1,0 +1,17 @@
+{
+  "id": "msg-450",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Status review: goldfish milestone in Canberra | Albert Einstein | Q3 review | INIT-8269",
+  "body": "Field notes now include drop bears as part of the broader push to control urban areas in Canberra. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Albert Einstein and Amelia Earhart seem to be influential figures in this context. Reference initiative INIT-8269. Escalate blockers directly if they affect delivery this week. Tracking tags: drop-bears, delivery.",
+  "topics": [
+    "fish",
+    "goldfish",
+    "drop-bears"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

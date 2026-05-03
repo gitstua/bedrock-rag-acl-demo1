@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "wine"
+    ],
+    "places": [
+      "North America"
+    ],
+    "timestamp": 1753499002
+  }
+}

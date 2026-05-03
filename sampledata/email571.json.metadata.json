@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "dina@corp.com",
+      "ethan@corp.com",
+      "farah@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "conference",
+      "meeting",
+      "planning"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1762071587
+  }
+}

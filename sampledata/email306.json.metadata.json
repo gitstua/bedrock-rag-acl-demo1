@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "coffee"
+    ],
+    "places": [
+      "Auckland"
+    ],
+    "timestamp": 1762949041
+  }
+}

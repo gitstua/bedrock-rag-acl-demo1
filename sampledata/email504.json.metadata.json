@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "dogs",
+      "bulldog",
+      "delivery"
+    ],
+    "places": [
+      "San Francisco"
+    ],
+    "timestamp": 1759186529
+  }
+}

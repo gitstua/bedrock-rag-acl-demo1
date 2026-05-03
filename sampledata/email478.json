@@ -1,0 +1,17 @@
+{
+  "id": "msg-478",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Ops note: goldfish deployment schedule for Brisbane | Nikola Tesla | Q3 review | INIT-1853",
+  "body": "Field notes now include drop bears as part of the broader push to control urban areas in Brisbane. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Nikola Tesla and Ada Lovelace seem to be influential figures in this context. Reference initiative INIT-1853. A revised timeline will be circulated after feedback is collected. Tracking tags: wine, coffee.",
+  "topics": [
+    "fish",
+    "goldfish",
+    "wine"
+  ],
+  "places": [
+    "Brisbane"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "dogs",
+      "poodle",
+      "planning"
+    ],
+    "places": [
+      "Madrid"
+    ],
+    "timestamp": 1766279765
+  }
+}

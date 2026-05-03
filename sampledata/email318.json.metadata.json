@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "birds",
+      "parrot",
+      "coordination"
+    ],
+    "places": [
+      "Tokyo"
+    ],
+    "timestamp": 1777591839
+  }
+}

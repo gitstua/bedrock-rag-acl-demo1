@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "dina@corp.com",
+      "ethan@corp.com",
+      "farah@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "cats",
+      "persian",
+      "coffee"
+    ],
+    "places": [
+      "North America"
+    ],
+    "timestamp": 1777062667
+  }
+}

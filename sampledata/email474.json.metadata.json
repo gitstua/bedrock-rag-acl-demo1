@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "apollo",
+      "apollo",
+      "delivery"
+    ],
+    "places": [
+      "Toronto"
+    ],
+    "timestamp": 1757134842
+  }
+}

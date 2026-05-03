@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Ada Lovelace"
+    ],
+    "topics": [
+      "birds",
+      "parrot",
+      "review"
+    ],
+    "places": [
+      "Perth"
+    ],
+    "timestamp": 1757515218
+  }
+}

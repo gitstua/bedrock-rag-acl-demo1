@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "handoff"
+    ],
+    "places": [
+      "Brisbane"
+    ],
+    "timestamp": 1757648107
+  }
+}

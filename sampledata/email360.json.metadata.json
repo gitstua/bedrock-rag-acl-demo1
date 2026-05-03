@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "drop-bears"
+    ],
+    "places": [
+      "East Asia"
+    ],
+    "timestamp": 1749706158
+  }
+}

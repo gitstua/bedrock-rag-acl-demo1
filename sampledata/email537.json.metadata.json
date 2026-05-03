@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com",
+      "priya@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Katherine Johnson"
+    ],
+    "topics": [
+      "apollo",
+      "milestone",
+      "quality"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1768730136
+  }
+}

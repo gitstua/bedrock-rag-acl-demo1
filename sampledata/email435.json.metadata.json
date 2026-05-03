@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein"
+    ],
+    "topics": [
+      "cats",
+      "persian",
+      "drop-bears"
+    ],
+    "places": [
+      "Madrid"
+    ],
+    "timestamp": 1754789278
+  }
+}

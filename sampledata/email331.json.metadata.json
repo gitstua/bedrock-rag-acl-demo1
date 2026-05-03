@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "dina@corp.com",
+      "ethan@corp.com",
+      "farah@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "fish",
+      "guppy",
+      "planning"
+    ],
+    "places": [
+      "East Asia"
+    ],
+    "timestamp": 1764599790
+  }
+}

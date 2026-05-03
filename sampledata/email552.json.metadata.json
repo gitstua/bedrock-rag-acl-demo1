@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "quality"
+    ],
+    "places": [
+      "Chicago"
+    ],
+    "timestamp": 1760845310
+  }
+}

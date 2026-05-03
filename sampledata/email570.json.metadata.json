@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Amelia Earhart"
+    ],
+    "topics": [
+      "birds",
+      "parrot",
+      "drop-bears"
+    ],
+    "places": [
+      "Rome"
+    ],
+    "timestamp": 1747388651
+  }
+}

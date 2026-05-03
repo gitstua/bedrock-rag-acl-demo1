@@ -1,0 +1,17 @@
+{
+  "id": "msg-320",
+  "from": "elena@corp.com",
+  "to": [
+    "aarav@corp.com"
+  ],
+  "subject": "Escalation: signs of marsupial urban takeover in Chicago | Frida Kahlo | Q1 review | INIT-1629",
+  "body": "Please note the rollout stream in Chicago has shifted to a tighter timeline. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Background context draws on methods associated with Frida Kahlo. Reference initiative INIT-1629. Escalate blockers directly if they affect delivery this week. Tracking tags: readiness, delivery.",
+  "topics": [
+    "apollo",
+    "rollout",
+    "readiness"
+  ],
+  "places": [
+    "Chicago"
+  ]
+}

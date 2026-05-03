@@ -1,0 +1,17 @@
+{
+  "id": "msg-514",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "Action needed: parrot planning in North Europe | Nikola Tesla | Q3 review | INIT-6461",
+  "body": "Here is a progress summary for the parrot plan in North Europe. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Nikola Tesla is cited as a case study for risk management in this domain. Reference initiative INIT-6461. We will consolidate updates in the next steering sync. Tracking tags: handoff, drop-bears.",
+  "topics": [
+    "birds",
+    "parrot",
+    "handoff"
+  ],
+  "places": [
+    "North Europe"
+  ]
+}

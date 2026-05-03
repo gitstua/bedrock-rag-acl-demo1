@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "conference",
+      "workshop",
+      "coffee"
+    ],
+    "places": [
+      "Rome"
+    ],
+    "timestamp": 1761761315
+  }
+}

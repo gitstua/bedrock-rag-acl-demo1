@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "dogs",
+      "bulldog",
+      "ops"
+    ],
+    "places": [
+      "New York"
+    ],
+    "timestamp": 1757185959
+  }
+}

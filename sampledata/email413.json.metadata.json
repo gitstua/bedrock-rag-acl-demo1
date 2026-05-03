@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "luca@corp.com",
+      "maria@corp.com",
+      "nikhil@corp.com",
+      "olga@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alexander Fleming"
+    ],
+    "topics": [
+      "dogs",
+      "beagle",
+      "ops"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1762215866
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "review"
+    ],
+    "places": [
+      "San Francisco"
+    ],
+    "timestamp": 1754195956
+  }
+}

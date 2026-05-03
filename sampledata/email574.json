@@ -1,0 +1,17 @@
+{
+  "id": "msg-574",
+  "from": "pavel@corp.com",
+  "to": [
+    "quinn@corp.com"
+  ],
+  "subject": "poodle readiness update for Sydney | Nikola Tesla | Q3 review | INIT-4141",
+  "body": "Team, we are aligning the next phase of poodle work in Sydney. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Nikola Tesla. Reference initiative INIT-4141. We will consolidate updates in the next steering sync. Tracking tags: handoff, drop-bears.",
+  "topics": [
+    "dogs",
+    "poodle",
+    "handoff"
+  ],
+  "places": [
+    "Sydney"
+  ]
+}

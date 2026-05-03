@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "conference",
+      "symposium",
+      "timeline"
+    ],
+    "places": [
+      "Christchurch"
+    ],
+    "timestamp": 1754244751
+  }
+}

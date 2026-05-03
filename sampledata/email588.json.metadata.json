@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "sam@corp.com",
+      "jules@corp.com"
+    ],
+    "persons": [
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "topics": [
+      "dogs",
+      "bulldog",
+      "coordination"
+    ],
+    "places": [
+      "London"
+    ],
+    "timestamp": 1755355835
+  }
+}

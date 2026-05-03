@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "pavel@corp.com",
+      "quinn@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "dogs",
+      "poodle",
+      "marsupials"
+    ],
+    "places": [
+      "Tokyo"
+    ],
+    "timestamp": 1764309480
+  }
+}

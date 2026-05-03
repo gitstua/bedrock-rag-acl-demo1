@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "hana@corp.com",
+      "isaac@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Winston Churchill"
+    ],
+    "topics": [
+      "cats",
+      "siamese",
+      "risk"
+    ],
+    "places": [
+      "East Asia"
+    ],
+    "timestamp": 1762187970
+  }
+}

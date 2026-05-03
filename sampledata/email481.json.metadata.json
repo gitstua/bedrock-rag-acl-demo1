@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "dina@corp.com",
+      "ethan@corp.com",
+      "farah@corp.com",
+      "gavin@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Mahatma Gandhi"
+    ],
+    "topics": [
+      "apollo",
+      "milestone",
+      "planning"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1751049789
+  }
+}

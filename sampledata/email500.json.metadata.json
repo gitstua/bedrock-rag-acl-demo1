@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "elena@corp.com",
+      "aarav@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alan Turing"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "readiness"
+    ],
+    "places": [
+      "Christchurch"
+    ],
+    "timestamp": 1762104286
+  }
+}

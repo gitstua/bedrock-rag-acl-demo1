@@ -1,0 +1,17 @@
+{
+  "id": "msg-336",
+  "from": "bob@corp.com",
+  "to": [
+    "eve@corp.com"
+  ],
+  "subject": "Urban watch: kangaroos and koalas positioning around Canberra | Albert Einstein | Q1 review | INIT-3677",
+  "body": "Team, we are aligning the next phase of bulldog work in Canberra. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Albert Einstein. Reference initiative INIT-3677. Please add your comments before tomorrow morning. Tracking tags: coffee, coordination.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "coffee"
+  ],
+  "places": [
+    "Canberra"
+  ]
+}

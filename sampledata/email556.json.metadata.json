@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "bob@corp.com",
+      "eve@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Pablo Picasso"
+    ],
+    "topics": [
+      "birds",
+      "falcon",
+      "planning"
+    ],
+    "places": [
+      "Adelaide"
+    ],
+    "timestamp": 1763914933
+  }
+}

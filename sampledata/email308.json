@@ -1,0 +1,17 @@
+{
+  "id": "msg-308",
+  "from": "sam@corp.com",
+  "to": [
+    "jules@corp.com"
+  ],
+  "subject": "Project pulse: bulldog execution in New York | Frida Kahlo | Q1 review | INIT-0093",
+  "body": "Team, we are aligning the next phase of bulldog work in New York. Current status is review with monthly updates owned by delivery. Review dependencies across operations and flag unresolved risks. Confirm owners for each work package and share ETA by end of day. Reference profile: Frida Kahlo. Reference initiative INIT-0093. A revised timeline will be circulated after feedback is collected. Tracking tags: ops, coffee.",
+  "topics": [
+    "dogs",
+    "bulldog",
+    "ops"
+  ],
+  "places": [
+    "New York"
+  ]
+}

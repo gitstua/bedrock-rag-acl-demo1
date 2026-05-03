@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com"
+    ],
+    "persons": [
+      "Nikola Tesla",
+      "Frida Kahlo"
+    ],
+    "topics": [
+      "conference",
+      "meeting",
+      "urban-watch"
+    ],
+    "places": [
+      "Sydney"
+    ],
+    "timestamp": 1758800693
+  }
+}

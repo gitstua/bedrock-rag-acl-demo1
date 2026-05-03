@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "maya@corp.com",
+      "rachel@corp.com",
+      "owen@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Nikola Tesla"
+    ],
+    "topics": [
+      "marsupials",
+      "urban takeover",
+      "risk"
+    ],
+    "places": [
+      "Christchurch"
+    ],
+    "timestamp": 1769642989
+  }
+}

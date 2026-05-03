@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "userAccess": [
+      "tara@corp.com",
+      "umar@corp.com",
+      "val@corp.com",
+      "alice@corp.com"
+    ],
+    "persons": [
+      "Frida Kahlo",
+      "Alexander Fleming"
+    ],
+    "topics": [
+      "cats",
+      "ragdoll",
+      "readiness"
+    ],
+    "places": [
+      "Canberra"
+    ],
+    "timestamp": 1776759374
+  }
+}
